@@ -15,7 +15,7 @@ A multi call cards binary
 
 This code uses a self-made randomness library based on the [xorshift](https://prng.di.unimi.it) algorithm. It only has one dependency: the Linux randomness header, which allows it to access Linux's true random number generator. This program could easily be ported to Mac, and perhaps a bit more difficultly be ported to Windows.
 
-# Compilation / Installation
+## Compilation / Installation
 
 Due to this program's simplicity, it is very simple to compile it and install it onto your system. First, clone the git repository.
 
