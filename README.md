@@ -4,12 +4,41 @@ A multi call cards binary
 
 ## Functions
 
-`cards -b`		Play an interactive round of Blackjack
-`cards -c<n>`		Print a specific card from an ordered deck
-`cards -r`		Print a random card
-`cards -o`		Print an ordered deck
-`cards -s`		Print a random deck.
-`cards -h`		Print a help message
+Play an interactive round of Blackjack
+
+```
+cards -b
+```
+
+Print a specific card from an ordered deck
+
+```
+cards -c<n>
+```
+
+Print a random card
+
+```
+cards -r
+```
+
+Print an ordered deck
+
+```
+cards -o
+```
+
+Print a random deck.
+
+```
+cards -s
+```
+
+Print a help message
+
+```
+cards -h
+```
 
 ## Randomness
 
